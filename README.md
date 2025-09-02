@@ -29,5 +29,5 @@ O projeto foi implementado em **MySQL** e inclui:
 ## Queries de Exemplo
 
 1. Seleção simples:
-```sql
+
 SELECT * FROM Cliente;
